@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/cramkumar/argocd-bootstrap.git
+    repoURL: https://github.com/cramkumar/argocd-sample.git
     path: charts/argocd-bootstrap/
     targetRevision: HEAD
   destination:
