@@ -8,7 +8,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/cramkumar/argocd-bootstrap.git
-    path: charts/argocd-bootstrap/
+    path: charts/argocd-bootstrap
     targetRevision: HEAD
   destination:
     server: https://kubernetes.default.svc
